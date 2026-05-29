@@ -143,9 +143,9 @@ The Power BI dashboard tracks:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshots/1ST.jpg)
-![Dashboard](screenshots/2ND.jpg)
-![Dashboard](screenshots/3RD.jpg)
+![Dashboard](screenshots/1ST.png)
+![Dashboard](screenshots/2ND.png)
+![Dashboard](screenshots/3RD.png)
 ---
 
 ## 🚀 Project Outcomes
